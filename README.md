@@ -4,4 +4,4 @@ Bem vindo(a) ao resultado do quarto desafio na Trilha de Construção do Meu Por
 
 Implementei algumas funções como utilização do localstorage para armazenar a preferência de tema(claro/escuro) do usuário, inserção de alguns conteúdos dinamicamente e legenda para meu vídeo de apresentação. 
 
-Para acessar meu portfólio basta [clicar aqui]().
+Para acessar meu portfólio basta [clicar aqui](https://htolentino.github.io/).

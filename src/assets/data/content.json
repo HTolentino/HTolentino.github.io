@@ -1,0 +1,80 @@
+{
+  "projetos": [
+    {
+      "titulo": "Spider Man Multiverses",
+      "descricao": "Uma landing page do multiverso Spider Man.",
+      "itens": [
+        "Carrosel de imagens;",
+        "Sinopse dos filmes;",
+        "Galeria de imagens dos filmes."
+      ],
+      "tecnologias": ["html", "css", "javascript"],
+      "imagem": "src/assets/images/projects/SpiderManMultiverses.png",
+      "preview": "https://htolentino.github.io/SpiderManMultiverses/",
+      "repositorio": "https://github.com/HTolentino/SpiderManMultiverses"
+    },
+    {
+      "titulo": "Mundo Invertido",
+      "descricao": "Uma landing page do mundo invertido baseado em Stranger Things.",
+      "itens": [
+        "Alternação de temas;",
+        "Formulário;",
+        "Alteração de todo o cenário."
+      ],
+      "tecnologias": ["html", "css", "javascript"],
+      "imagem": "src/assets/images/projects/MundoInvertido.png",
+      "preview": "https://htolentino.github.io/MundoInvertido/",
+      "repositorio": "https://github.com/HTolentino/MundoInvertido"
+    },
+    {
+      "titulo": "Yu-Gi-Oh Edição Jo-ken-po",
+      "descricao": "Jogo com as mecânicas do Jo-Ken-Po, porém com tema do Yu-Gi-Oh.",
+      "itens": [
+        "Visualização das cartas;",
+        "Escolha de uma carta;",
+        "Acumulação de pontos."
+      ],
+      "tecnologias": ["html", "css", "javascript"],
+      "imagem": "src/assets/images/projects/YugiohGame.png",
+      "preview": "https://htolentino.github.io/YugiohGame/",
+      "repositorio": "https://github.com/HTolentino/YugiohGame"
+    },
+    {
+      "titulo": "Pokédex",
+      "descricao": "Pokédex com Javascript.",
+      "itens": [
+        "Listagem de Pokémons;",
+        "Botão para carregar mais Pokémons;",
+        "Abertura de outra tela com mais informações do Pokémon selecionado."
+      ],
+      "tecnologias": ["html", "css", "javascript"],
+      "imagem": "src/assets/images/projects/Pokédex.png",
+      "preview": "https://htolentino.github.io/Pokedex/",
+      "repositorio": "https://github.com/HTolentino/Pokedex"
+    }
+  ],
+
+  "cursos": [
+    {
+      "titulo": "Introduction to Cybersecurity",
+      "instituicao": "Cisco",
+      "data": "Jun 2022",
+      "duracao": "6h",
+      "competencias": "Cibersegurança; Melhores práticas cibernéticas; Vulnerabilidades de rede; Privacidade e Confidencialidade de Dados; Detecção de ameaças."
+    },
+    {
+      "titulo": "Gew - Geração Web",
+      "instituicao": "Cebrac Uberlândia",
+      "data": "Mar 2018",
+      "duracao": "200h",
+      "competencias": "CSS; HTML; Desenvolvimento web; Android; Windows 7; JAVA; Word; Excel; PowerPoint; OneNote; LinkedIn; Facebook; Twitter; YouTube; Inkscape; GIMP; komposer; Tumblr."
+    },
+    {
+      "titulo": "Ambiente de Desenvolvimento Java",
+      "instituicao": "Digital Innovation One",
+      "data": "Nov 2022",
+      "duracao": "1h",
+      "competencias": "JAVA; Programação orientada a objetos (POO)."
+    }
+  ]
+}

@@ -56,13 +56,6 @@
 
   "cursos": [
     {
-      "titulo": "Introduction to Cybersecurity",
-      "instituicao": "Cisco",
-      "data": "Jun 2022",
-      "duracao": "6h",
-      "competencias": "Cibersegurança; Melhores práticas cibernéticas; Vulnerabilidades de rede; Privacidade e Confidencialidade de Dados; Detecção de ameaças."
-    },
-    {
       "titulo": "Gew - Geração Web",
       "instituicao": "Cebrac Uberlândia",
       "data": "Mar 2018",
@@ -70,11 +63,25 @@
       "competencias": "CSS; HTML; Desenvolvimento web; Android; Windows 7; JAVA; Word; Excel; PowerPoint; OneNote; LinkedIn; Facebook; Twitter; YouTube; Inkscape; GIMP; komposer; Tumblr."
     },
     {
+      "titulo": "Introduction to Cybersecurity",
+      "instituicao": "Cisco",
+      "data": "Jun 2022",
+      "duracao": "6h",
+      "competencias": "Cibersegurança; Melhores práticas cibernéticas; Vulnerabilidades de rede; Privacidade e Confidencialidade de Dados; Detecção de ameaças."
+    },
+    {
       "titulo": "Ambiente de Desenvolvimento Java",
       "instituicao": "Digital Innovation One",
       "data": "Nov 2022",
       "duracao": "1h",
       "competencias": "JAVA; Programação orientada a objetos (POO)."
+    },
+    {
+      "titulo": "Ri Happy - Front-end do Zero",
+      "instituicao": "Digital Innovation One",
+      "data": "Jun 2025",
+      "duracao": "75h",
+      "competencias": "Git; GitHub; HTML; CSS; Javascript"
     }
   ]
 }
